@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /python/
+Disallow: /blocks/newtrobat_blocks_reference_2.2.0.md
+Disallow: /spec/newtrobat_format_spec_2.2.0.md
+
+Sitemap: https://newtrobat.netlify.app/sitemap.txt
